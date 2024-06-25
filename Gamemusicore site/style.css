@@ -1,0 +1,127 @@
+:root {
+    --azul: #222a68;
+    --verde: #4be35a;
+    --preto: #000000;
+    --branco: #ffffff;
+    --prata: #CCCED1;
+
+}
+
+body {
+    background-color: var(--preto);
+}
+
+p {
+    text-align: center;
+    color: var(--branco);
+}
+
+h1 {
+    color: var(--branco);
+    text-align: center;
+}
+
+ul {
+    color: var(--branco);
+}
+
+.rocks {
+    color:var(--branco);
+}
+
+h4 {
+    color: var(--branco);
+}
+
+.painel {
+    text-align: center;
+}
+
+form {
+    color: var(--branco);
+}
+
+#Idrecado {
+    height: 50px;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: row;
+}
+
+#form {
+    width: 30%;
+}
+
+#video {
+    width: 20%;
+}
+
+header {
+    background-color: var(--verde);
+    font-size: x-large;
+    border-radius: 50px;
+    width: 1000x;
+    height: fit-content;
+    position: static;
+
+}
+
+#texto {
+    color: #ffffff;
+}
+
+footer {
+    background-color: var(--preto);
+    font-size: x-large;
+    border-radius: 20px;
+    height: 100%;
+    width: 100%;
+    position: static;
+}
+
+#estilo {
+    text-align: left;
+}
+
+body {
+    background-color: var(--preto);
+    background-image: none;
+    background-blend-mode: overlay;
+}
+
+.container {
+    color: var(--branco);
+    display: flex;
+}
+
+.list {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    padding: 10px;
+    list-style-type: none;
+    margin-right: 300px;
+}
+
+.foto {
+    height: 20%;
+    width: 20%;
+}
+
+.aval {
+    height: 50px;
+}
+
+.cabeça {
+    margin-right: 100px;
+}
+
+#azul {
+    text-decoration: none;
+}
+
+nav {
+    position: static;
+}
